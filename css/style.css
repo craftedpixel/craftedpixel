@@ -1,0 +1,36 @@
+body {
+    background: darkgrey
+}
+
+.title {
+    color: darkblue
+}
+
+#contact-me {
+    color:purple
+}
+
+/*
+example of selector
+body {
+    background: red
+}
+
+For selectors it is best
+to use classes
+.aclass {
+    color:blue
+}
+
+in html you will use <p class "aclass">Some text.</p
+to call it
+
+The ID Selector uses a hash symbol.
+It can only be used with one element at a time,
+but can be used more than once
+#idselector {
+    color:blue
+}
+<p id="idselector">Some text.</p
+
+*/
